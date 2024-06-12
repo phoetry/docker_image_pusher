@@ -3,4 +3,3 @@ kasmweb/nginx
 xhofe/alist
 xiaoyaliu/alist
 frooodle_s-pdf
-gdy666/lucky
