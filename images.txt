@@ -4,3 +4,14 @@ xhofe/alist
 xiaoyaliu/alist
 gdy666/lucky
 tailscale/tailscale
+mysll/ps-offline
+badapple9/speedtest-x
+jlesage/firefox
+0nlylty/dockercopilot:ZSPACE
+gindex/tts-azure
+vinlic/glm-free-api
+vinlic/kimi-free-api
+haishanh/yacd
+dreamacro/clash-premium
+yidadaa/chatgpt-next-web
+halcyonazure/lsky-pro-docker
