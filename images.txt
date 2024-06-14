@@ -15,5 +15,6 @@ mysll/ps-offline
 vinlic/glm-free-api
 vinlic/kimi-free-api
 yidadaa/chatgpt-next-web
+jericx/syncclipboard-server
 halcyonazure/lsky-pro-docker
 0nlylty/dockercopilot:ZSPACE
