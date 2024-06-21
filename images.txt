@@ -18,3 +18,4 @@ yidadaa/chatgpt-next-web
 jericx/syncclipboard-server
 halcyonazure/lsky-pro-docker
 0nlylty/dockercopilot:ZSPACE
+herberthe0229/iptv-sources
