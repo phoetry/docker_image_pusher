@@ -9,6 +9,10 @@ tailscale/tailscale
 badapple9/speedtest-x
 dreamacro/clash-premium
 haishanh/yacd
+johngong/qbittorrent
+estrellaxd/auto_bangumi
+lovechen/embyserver
+linuxserver/plex
 jlesage/firefox
 gindex/tts-azure
 mysll/ps-offline
