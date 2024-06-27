@@ -14,6 +14,7 @@ estrellaxd/auto_bangumi
 lovechen/embyserver
 linuxserver/plex
 jlesage/firefox
+bonjourr/bonjourr
 rustdesk/rustdesk-server
 gindex/tts-azure
 mysll/ps-offline
