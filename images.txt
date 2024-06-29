@@ -16,6 +16,7 @@ linuxserver/plex
 jlesage/firefox
 bonjourr/bonjourr
 rustdesk/rustdesk-server
+hectorqin/reader
 gindex/tts-azure
 mysll/ps-offline
 vinlic/glm-free-api
