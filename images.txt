@@ -21,7 +21,6 @@ gindex/tts-azure
 mysll/ps-offline
 vinlic/glm-free-api
 vinlic/kimi-free-api
-justsong/one-api:v0.6.7
 yidadaa/chatgpt-next-web
 halcyonazure/lsky-pro-docker
 0nlylty/dockercopilot:ZSPACE
