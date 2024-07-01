@@ -1,4 +1,3 @@
-louislam/dockge
 ubuntu
 python
 nginx
